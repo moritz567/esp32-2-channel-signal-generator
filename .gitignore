@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.sqlite3
+.env
+*.autosave
+sin_val.c
+build/
+dist/
+.vscode/
